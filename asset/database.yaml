@@ -1,0 +1,12 @@
+mysql:
+    hx:
+      host: "localhost"
+      user: "root"
+      password: "000314"
+      port: 3306
+
+    hx_gbd:
+      host: "localhost"
+      user: "root"
+      password: "000314"
+      port: 3306
